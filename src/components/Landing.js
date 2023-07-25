@@ -52,7 +52,7 @@ const handleDragOver = (e) => {
 
 const analyzeImageColors = (image) => {
     const colorThief = new ColorThief();
-    const colorPalette = colorThief.getPalette(image, 5); // Get the top 5 dominant colors
+    const colorPalette = colorThief.getPalette(image, 10); // Get the top 5 dominant colors
     const hexColors = colorPalette.map(color => rgbToHex(color[0], color[1], color[2]));
     return hexColors;
 };
