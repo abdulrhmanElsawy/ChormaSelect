@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChormaSelect/static/css/main.1ef4ea84.css",
+    "main.js": "/ChormaSelect/static/js/main.c438c796.js",
+    "static/js/787.2c44ab90.chunk.js": "/ChormaSelect/static/js/787.2c44ab90.chunk.js",
+    "index.html": "/ChormaSelect/index.html",
+    "main.1ef4ea84.css.map": "/ChormaSelect/static/css/main.1ef4ea84.css.map",
+    "main.c438c796.js.map": "/ChormaSelect/static/js/main.c438c796.js.map",
+    "787.2c44ab90.chunk.js.map": "/ChormaSelect/static/js/787.2c44ab90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef4ea84.css",
+    "static/js/main.c438c796.js"
+  ]
+}
